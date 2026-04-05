@@ -6,8 +6,8 @@
 |--------|-------|
 | 🔥 Current Streak | **1 day(s)** |
 | 📦 Total Commits Logged | **47** |
-| 📅 Active Days | **3** |
-| 📈 Avg Commits/Day | **15.7** |
+| 📅 Active Days | **4** |
+| 📈 Avg Commits/Day | **11.8** |
 | 🏆 Most Active Day | **2026-04-03** (16 commits) |
 | 🗂️ Projects Touched | **12** |
 
@@ -26,4 +26,4 @@
 - Portfolio
 - India_Pin_Code_Checker
 
-_Last updated: 05 Apr 2026, 12:02 AM IST_
+_Last updated: 06 Apr 2026, 12:04 AM IST_
