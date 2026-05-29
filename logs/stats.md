@@ -5,10 +5,10 @@
 | Metric | Value |
 |--------|-------|
 | 🔥 Current Streak | **1 day(s)** |
-| 📦 Total Commits Logged | **247** |
+| 📦 Total Commits Logged | **272** |
 | 📅 Active Days | **57** |
-| 📈 Avg Commits/Day | **4.3** |
-| 🏆 Most Active Day | **2026-05-29** (21 commits) |
+| 📈 Avg Commits/Day | **4.8** |
+| 🏆 Most Active Day | **2026-05-29** (25 commits) |
 | 🗂️ Projects Touched | **14** |
 
 ## Projects
