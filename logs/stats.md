@@ -5,10 +5,10 @@
 | Metric | Value |
 |--------|-------|
 | 🔥 Current Streak | **1 day(s)** |
-| 📦 Total Commits Logged | **226** |
+| 📦 Total Commits Logged | **247** |
 | 📅 Active Days | **57** |
-| 📈 Avg Commits/Day | **4.0** |
-| 🏆 Most Active Day | **2026-04-11** (19 commits) |
+| 📈 Avg Commits/Day | **4.3** |
+| 🏆 Most Active Day | **2026-05-29** (21 commits) |
 | 🗂️ Projects Touched | **14** |
 
 ## Projects
@@ -28,4 +28,4 @@
 - ARKIS_AI
 - medclear
 
-_Last updated: 29 May 2026, 06:09 PM IST_
+_Last updated: 29 May 2026, 06:10 PM IST_
