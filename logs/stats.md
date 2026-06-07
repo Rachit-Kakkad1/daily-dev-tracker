@@ -4,12 +4,12 @@
 
 | Metric | Value |
 |--------|-------|
-| 🔥 Current Streak | **2 day(s)** |
-| 📦 Total Commits Logged | **331** |
+| 🔥 Current Streak | **1 day(s)** |
+| 📦 Total Commits Logged | **333** |
 | 📅 Active Days | **66** |
 | 📈 Avg Commits/Day | **5.0** |
 | 🏆 Most Active Day | **2026-05-29** (28 commits) |
-| 🗂️ Projects Touched | **15** |
+| 🗂️ Projects Touched | **16** |
 
 ## Projects
 
@@ -28,5 +28,6 @@
 - ARKIS_AI
 - medclear
 - Rachit-Kakkad1
+- Open-Source-Hackathon-Submissions
 
-_Last updated: 07 Jun 2026, 12:40 AM IST_
+_Last updated: 07 Jun 2026, 11:27 AM IST_
