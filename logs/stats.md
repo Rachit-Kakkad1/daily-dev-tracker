@@ -6,8 +6,8 @@
 |--------|-------|
 | 🔥 Current Streak | **1 day(s)** |
 | 📦 Total Commits Logged | **337** |
-| 📅 Active Days | **85** |
-| 📈 Avg Commits/Day | **4.0** |
+| 📅 Active Days | **86** |
+| 📈 Avg Commits/Day | **3.9** |
 | 🏆 Most Active Day | **2026-05-29** (28 commits) |
 | 🗂️ Projects Touched | **16** |
 
@@ -30,4 +30,4 @@
 - Rachit-Kakkad1
 - Open-Source-Hackathon-Submissions
 
-_Last updated: 26 Jun 2026, 01:19 AM IST_
+_Last updated: 27 Jun 2026, 01:09 AM IST_
