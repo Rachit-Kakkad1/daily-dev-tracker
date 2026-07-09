@@ -5,11 +5,11 @@
 | Metric | Value |
 |--------|-------|
 | 🔥 Current Streak | **1 day(s)** |
-| 📦 Total Commits Logged | **337** |
-| 📅 Active Days | **98** |
-| 📈 Avg Commits/Day | **3.4** |
+| 📦 Total Commits Logged | **344** |
+| 📅 Active Days | **99** |
+| 📈 Avg Commits/Day | **3.5** |
 | 🏆 Most Active Day | **2026-05-29** (28 commits) |
-| 🗂️ Projects Touched | **16** |
+| 🗂️ Projects Touched | **17** |
 
 ## Projects
 
@@ -29,5 +29,6 @@
 - medclear
 - Rachit-Kakkad1
 - Open-Source-Hackathon-Submissions
+- HackSprint_2026
 
-_Last updated: 09 Jul 2026, 12:43 AM IST_
+_Last updated: 10 Jul 2026, 12:57 AM IST_
