@@ -5,11 +5,11 @@
 | Metric | Value |
 |--------|-------|
 | 🔥 Current Streak | **1 day(s)** |
-| 📦 Total Commits Logged | **344** |
-| 📅 Active Days | **117** |
-| 📈 Avg Commits/Day | **2.9** |
+| 📦 Total Commits Logged | **351** |
+| 📅 Active Days | **118** |
+| 📈 Avg Commits/Day | **3.0** |
 | 🏆 Most Active Day | **2026-05-29** (28 commits) |
-| 🗂️ Projects Touched | **17** |
+| 🗂️ Projects Touched | **18** |
 
 ## Projects
 
@@ -30,5 +30,6 @@
 - Rachit-Kakkad1
 - Open-Source-Hackathon-Submissions
 - HackSprint_2026
+- Sanjevani
 
-_Last updated: 28 Jul 2026, 12:47 AM IST_
+_Last updated: 29 Jul 2026, 12:43 AM IST_
