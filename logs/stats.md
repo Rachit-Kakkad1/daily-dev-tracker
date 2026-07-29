@@ -6,8 +6,8 @@
 |--------|-------|
 | 🔥 Current Streak | **1 day(s)** |
 | 📦 Total Commits Logged | **351** |
-| 📅 Active Days | **118** |
-| 📈 Avg Commits/Day | **3.0** |
+| 📅 Active Days | **119** |
+| 📈 Avg Commits/Day | **2.9** |
 | 🏆 Most Active Day | **2026-05-29** (28 commits) |
 | 🗂️ Projects Touched | **18** |
 
@@ -32,4 +32,4 @@
 - HackSprint_2026
 - Sanjevani
 
-_Last updated: 29 Jul 2026, 12:43 AM IST_
+_Last updated: 30 Jul 2026, 12:33 AM IST_
