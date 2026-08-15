@@ -5,11 +5,11 @@
 | Metric | Value |
 |--------|-------|
 | 🔥 Current Streak | **1 day(s)** |
-| 📦 Total Commits Logged | **351** |
+| 📦 Total Commits Logged | **358** |
 | 📅 Active Days | **134** |
-| 📈 Avg Commits/Day | **2.6** |
+| 📈 Avg Commits/Day | **2.7** |
 | 🏆 Most Active Day | **2026-05-29** (28 commits) |
-| 🗂️ Projects Touched | **18** |
+| 🗂️ Projects Touched | **19** |
 
 ## Projects
 
@@ -31,5 +31,6 @@
 - Open-Source-Hackathon-Submissions
 - HackSprint_2026
 - Sanjevani
+- CRM_SENTRY
 
-_Last updated: 15 Aug 2026, 12:13 AM IST_
+_Last updated: 15 Aug 2026, 11:48 PM IST_
