@@ -1805,3 +1805,20 @@ _Last updated: 19 Aug 2026, 11:53 PM IST_
 - `218026e` · **07:01 PM** — feat: add SettingsViewer module with camera registry management, user administration, and surveillance gap analysis capa
 
 _Last updated: 20 Aug 2026, 11:58 PM IST_
+
+---
+
+## 📅 Friday, 21 August 2026
+> **8 commit(s)** across **1 project(s)** today.
+
+### 🔧 CRM_SENTRY
+- `ca32a9b` · **04:38 PM** — added a toaster msg
+- `7569618` · **04:36 PM** — feat: implement HLS video player component with support for digital zoom, panning, and multi-protocol stream handling
+- `9d9ac29` · **03:44 PM** — feat: implement route intelligence engine with spatial camera mapping and UI components for import and viewing
+- `549bc66` · **02:47 PM** — feat: implement SiteTreeDrawer component for categorized camera management and navigation
+- `7103203` · **02:37 PM** — feat: implement bulk camera import drawer with automated spreadsheet parsing and RTSP URL synthesis
+- `3dc2f95` · **02:32 PM** — feat: regenerate Wails frontend bindings and models for app methods
+- `f8cb7bf` · **02:30 PM** — Merge branch 'origin/main' into main (resolved build and dist conflicts)
+- `ad63145` · **02:29 PM** — feat: update camera types, upgrade live stream to 720p with ANPR passthrough, and clean up window titlebar
+
+_Last updated: 21 Aug 2026, 11:56 PM IST_
